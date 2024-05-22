@@ -21,18 +21,6 @@ public class Dealership {
     	Employee emp=new Employee();
     	
     	cust1.purchaseCar(vehicle, emp, false);
-    	//vehicle which is interested in
-    	//emp that chooses to get help from
-    	
-    	
-    	/*
-    	 * handleCustomer(Customer cust,boolean finance, Vehicle vehicle)
-    	 * if(finance==true){
-    	 *     runCreditHistory(Customer cust,double doubleAmount)
-    	 * else if(vehicle.getPrice<=cust.getCashOnHand())
-    	 *     processTransaction(Customer cust, Vehicle vehicle)
-    	 * else
-    	 *     tell customer to bring money
-	    */
+    
     }
 }
